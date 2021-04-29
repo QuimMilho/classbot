@@ -1,0 +1,9 @@
+{
+    "prefix": "?",
+    "token": "YourToken",
+    
+    "mysql_user": "YourUser",
+    "mysql_password": "YourPassword",
+    "mysql_database": "YourDatabase"
+    
+}
