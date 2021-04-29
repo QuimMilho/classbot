@@ -4,6 +4,7 @@ This is the code for a discord bot that sends a embed message 5 minutes before i
 It will be updated soon with the ability to remember tests and exams
 
 Commands
+
 ?add [weekdayId] [hour] [link] [name]
 With this command you can add classes to your chat!
 To see the weekdays you must do ?week
